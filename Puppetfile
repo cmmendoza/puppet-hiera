@@ -6,4 +6,3 @@ mod 'profile',
     :git => 'https://github.com/cmmendoza/puppet-profiles.git'
 mod 'role',
     :git => 'https://github.com/cmmendoza/puppet-roles.git'
-For testing purposes

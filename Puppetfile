@@ -6,3 +6,7 @@ mod 'profile',
     :git => 'https://github.com/cmmendoza/puppet-profiles.git'
 mod 'role',
     :git => 'https://github.com/cmmendoza/puppet-roles.git'
+mod 'puppetlabs-stdlib', '4.17.0'
+mod 'puppetlabs-concat', '4.0.0'
+mod 'puppetlabs-stdlib', '4.17.0'
+

@@ -1,3 +1,5 @@
+hiera_include('classes',[])
+
 node 'cmtest-puppetmaster.buildandrelease.org' {
         class { 'ntp':
                 servers => [ 'ntp1.corp.com', 'ntp2.corp.com' ],

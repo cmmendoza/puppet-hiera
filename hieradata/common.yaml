@@ -3,6 +3,6 @@ classes:
  - ntp
  - ec2tagfacts
 
- ntp::servers:
-   -ntp1.corp.com
-   -ntp2.corp.com
+ntp::servers:
+ - ntp1.corp.com
+ - ntp2.corp.com
